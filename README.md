@@ -8,4 +8,5 @@ To run the project, we will need to run
 * For the client  `npm run serve`
 ***
 
+(I'll set up the deploy later)
 <br/>
